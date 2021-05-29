@@ -60,7 +60,7 @@ How do I know? You’re in your right not taking my words for it. But I’m not 
 
 ##### Clean Functional Code
 
-This promises to be a great 400 pages book that will teach hundreds of thousands of developers what is good functional code. This book will be the most popular book of all having Haskell as a model language. It will bring a lot of fame and money to the authors. This will be much easier, much more rewarding, much more beneficial than writing any other book on Haskell. This one will be known in the whole functional programming world. Scala, F#, Elm, even C#, JavaScript, C++ - all these camps will learn from the book and will see that Haskell is not scary.
+This promises to be a great 400 pages book that will teach hundreds of thousands of developers what good functional code is. This book will be the most popular book of all having Haskell as a model language. It will bring a lot of fame and money to the authors. This will be much easier, much more rewarding, much more beneficial than writing any other book on Haskell. This one will be known in the whole functional programming world. Scala, F#, Elm, even C#, JavaScript, C++ - all these camps will learn from the book and will see that Haskell is not scary.
 
 * [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
