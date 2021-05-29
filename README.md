@@ -1,4 +1,4 @@
-# The-Voids-Of-Haskell
+# The Voids Of Haskell
 
 I often hear how happy Haskellers are because they have such a great and unique language. They must be proud of how the outer world respects this Haskell technical superiority, and how the language influences all the other languages. This is deserved for sure, and it’s definitely a reason for pride.
 
