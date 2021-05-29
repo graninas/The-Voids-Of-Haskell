@@ -57,14 +57,14 @@ How do I know? You’re in your right not taking my words for it. But I’m not 
 * [Testing Practices With Haskell](#Testing-Practices-With-Haskell)
 * [Test-Driven Development In Haskell](#Test-Driven-Development-In-Haskell)
 
-#### Clean Functional Code
+##### Clean Functional Code
 
 This promises to be a great 400 pages book that will teach hundreds of thousands of developers what is good functional code. This book will be the most popular book of all having Haskell as a model language. It will bring a lot of fame and money to the authors. This will be much easier, much more rewarding, much more beneficial than writing any other book on Haskell. This one will be known in the whole functional programming world. Scala, F#, Elm, even C#, JavaScript, C++ - all these camps will learn from the book and will see that Haskell is not scary.
 
 * [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
-#### Beyond The Functions: Design Patterns In Functional Programming
+##### Beyond The Functions: Design Patterns In Functional Programming
 
 Surely, we have some Haskell books about Functor-Applicative-Monad, but they don’t cover the recent discoveries. Just talking about “functors” is not enough. You can discuss interesting properties of data structures, but you won’t get a full picture of how to design the code, only small parts of it. What is missing here is the understanding of the difference between functional idioms and design patterns. Functors, applicatives, monads are more internal, inherent functional idioms rather than external, compound design patterns. Functional idioms reveal the math nature of a data structure whereas design patterns allow constructing solutions to common programming problems. The new 500 pages book on design patterns in Haskell should demonstrate this distinction and provide a comprehensive GoF-like reference on all the design patterns recently discovered in functional languages.
 
@@ -74,7 +74,7 @@ Surely, we have some Haskell books about Functor-Applicative-Monad, but they don
 * [Functional Programming Patterns in Scala and Clojure](https://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure/dp/1937785475)
 * [Scala Design Patterns](https://www.amazon.com/Scala-Design-Patterns-Practical-Reuse/dp/3319021915)
 
-#### Database Programming With Haskell
+##### Database Programming With Haskell
 
 By reading this book, you’ll become proficient in implementing database-related code. You’ll get everything you wanted to know about persistence in Haskell, and even more than that. Relational databases, key-value databases, object databases, file shares, distributed and cloud storages. The questions of connectivity, type-safe querying, schema migration, DB model design, error handling, reliability of the code, versioning, and also - libraries comparison, the related design patterns, even the CAP theorem and its consequences. This would be a really dense 1000 pages book, an epoch-making work, extremely helpful and ideas-intensive. But writing it will require a dramatically high level of knowledge and involvement. More than a single person can afford.
 
@@ -82,14 +82,14 @@ By reading this book, you’ll become proficient in implementing database-relate
 * [NoSQL Databases A Complete Guide 2020 Edition](https://www.amazon.com/dp/0655909338?tag=uuid10-20)
 * [C++ Object Databases: Programming With the Odmg Standard](https://www.amazon.com/Object-Databases-Programming-ODMG-Standard/dp/0201634880)
 
-#### Going Fancy: Type-Safe Relational Mapping With Haskell
+##### Going Fancy: Type-Safe Relational Mapping With Haskell
 
 Today, we have a dozen libraries for relational databases, quite different and sometimes sophisticated. What’s hidden there? What smart tricks and approaches are used for providing a type-safe, type-level methodology of defining relational DB schema? What’s interesting is there? What deep and intricate Haskell features can be used? How can we construct a querying eDSL, and what will be our solutions to make it extensible? This 600 pages book will be quite useful for both: interested in learning a fancy Haskell, and those who want to improve their library constructing skills.
 
 * [Core Java™ Data Objects](https://www.oreilly.com/library/view/core-javatm-data/0131407317/)
 * [Databases, Types And the Relational Model: The Third Manifesto 3rd Edition](https://www.amazon.com/Databases-Types-Relational-Model-3rd/dp/0321399420)
 
-#### Domain-Driven Design In Haskell
+##### Domain-Driven Design In Haskell
 
 We often claim that Functional Programming is much better for describing complex domains than Object-Oriented Programming. Until recently, our claims were unproven. It was a belief rather than a real practice. There was no unified methodology on how to convert a particular business domain into functional code. There were no best practices and well-known solutions. There was no understanding of how Domain-Driven Design works in Haskell. But this book changes everything. It presents a ready-to-use methodology, a nicely shaped source of knowledge on this theme. By reading it, you’ll know how algebraic data types, while being a great tool, open a door to more interesting applications of different functional concepts. The knowledge presented in this book is universal. It can be used to describe any domain no matter how complex it is, and the code will be well-structured, concise, simple, expressible, safe. Besides that, this 500 pages book provides a reasoning framework for domain analysis and exploration.
 
@@ -97,20 +97,20 @@ We often claim that Functional Programming is much better for describing complex
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 * [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/)
 
-#### Boringly Simple Haskell: The Path Of A Rebellion
+##### Boringly Simple Haskell: The Path Of A Rebellion
 
 If you ever felt like being an outsider in a company of smarter colleagues who could discuss complex and very abstract Haskell things, this book is for you. You’ll see that it’s really possible to write useful programs in Haskell without that difficult stuff. The authors do their best to present you with the intermediate-level Haskell in a rigorous way, with nice samples and exercises. While reading this small 300-page book, you’ll be constructing a program with only simple concepts. This won’t be easy, because doing simple is hard. But when you finish your journey with the book, you’ll be valuing simplicity a lot.
 
 * [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book)
 
-#### Event Sourcing, CQRS, And Reliable Systems In Haskell
+##### Event Sourcing, CQRS, And Reliable Systems In Haskell
 
 We already know how to build distributed systems. We know how to make our services responsive, resilient, and reliable. All we need is CQRS and Event Sourcing. What we don’t know is how to do it in Haskell. What tools? What approaches? When? Haskell demonstrates a good enough performance for being a tool of a choice, but it needs some ready patterns on how to organize such a project. The book gives all the answers so one can take it as a methodology and build a solution suitable for a particular domain. The book also compares Haskell and Scala to provide a better insight into what is good and what is not. A very useful 400 pages book contributing to the Software Engineering discipline in Haskell.
 
 * [Exploring CQRS and Event Sourcing](https://www.amazon.com/Exploring-CQRS-Event-Sourcing-maintainability/dp/1621140164)
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 
-#### The Actors Of FRP
+##### The Actors Of FRP
 
 Haskell has lots of FRP libraries, all having their own approaches and structures. It’s quite easy to get lost in this Pandora box of ideas. This book is a deep, thorough, and practical guide into different kinds of FRP in Haskell. The reader will learn this difficult theme in application to real tasks: web development, game development, distributed applications, microservices. The book provides a comprehensive comparison of the libraries (reactive-banana, reflex, reflex-dom, netwire, yampa) and even teaches the reader to build their own FRP library. A really good source of knowledge presented well, with cool examples and joyful style. 600 pages.
 
@@ -118,38 +118,38 @@ Haskell has lots of FRP libraries, all having their own approaches and structure
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 * [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
 
-#### Game Development In Haskell
+##### Game Development In Haskell
 
 Gaming is fun! By reading this funny book, you’ll learn how to build interesting games in Haskell with Gloss, Helm, and LambdaHack. This can be your first Haskell book - so simple it is! Learning from this 300 page book won’t take much time. The best interactive introduction to the language!
 
 * [Introducing JavaScript Game Development: Build a 2D Game from the Ground Up](https://www.amazon.com/Introducing-JavaScript-Game-Development-Ground/dp/1484232518)
 
-#### The Correct Software. A Haskeller’s Perspective
+##### The Correct Software. A Haskeller’s Perspective
 
 This is a very unique book. You definitely want it! Correctness of Software - what it is, and how to achieve it. Today we know the answer, and the answer is beautiful! Haskell is very suitable for writing correct, type-safe logic having no bugs by construction. The book gives you a deep introduction to type-level programming with a touch of the types-as-proofs theme and the math around this. The material is not only theoretical, - the authors provide a set of real use cases with detailed explanations of techniques used. The book is written well, it only speaks about what’s really important for the narrative, and doesn’t travel too deep into the theory. Book has 500 pages, and it’s very dense.
 
-#### Resource Management With Linear Types
+##### Resource Management With Linear Types
 
 Managing resources was never an easy theme. Doing it right is an extremely difficult task, especially considering that nobody knows what is right and what is wrong. We’ve elaborated some practices and approaches such as RAII in other languages, but not everything is applicable to Haskell 1:1. This 500 pages book presents a new way of resource handling, a methodology based on Linear Types. The authors made a great effort to show how to structure resource-safe applications in Haskell, how to marry Linear Types and exceptions, and how to deal with laziness. A very practical book, but not really simple to read.
 
-#### Conquering The Concurrency: The Engineering Approach
+##### Conquering The Concurrency: The Engineering Approach
 
 What differentiates this 600 pages book from its predecessors is the approach the authors took. They discuss concurrency from the Software Design point of view. They evaluate different solutions: multithreaded and single-threaded, with STM, MVars, and hand-written concurrent algorithms. They compare the performance, the complexity, the difficulty of the solutions, make conclusions and provide the best strategies on how to organize concurrent applications for different business domains.
 
 * [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/)
 
-#### Mimic The Enemy: Object-Oriented Programming In Haskell
+##### Mimic The Enemy: Object-Oriented Programming In Haskell
 
 "Know thy enemy and know yourself; in a hundred battles, you will never be defeated”, - Sun Tzu once said. For Haskell, implementing an OOP-like programming environment means not only broadening the horizons by learning OOP itself, but also revealing deep insights about Haskell itself. The book is a thorough investigation on how to implement object systems, dynamic dispatch, inheritance, and encapsulation in a strange, unnatural yet useful way. Starting from a general understanding of OOP, the authors of this 600 pages book came to the conclusion that being a mindful Haskell developer also means knowing what other techniques exist.
 
-#### A Rest-Full Guide On Web Development In Haskell
+##### A Rest-Full Guide On Web Development In Haskell
 
 This 500 pages book is intended for those who want to build something useful in Haskell without getting onto the ground of difficult concepts. This book is especially useful because it compares different web servers: Scotty, Servant, Warp, Yesod. Features, performance, design patterns, application architectures of web applications, and other questions presented within a single resource for your convenience.
 
 * [Developing Web Apps with Haskell and Yesod, 2nd Edition](https://www.oreilly.com/library/view/developing-web-apps/9781491915585/)
 * [Start Building RESTful Microservices using Akka HTTP with Scala](https://www.amazon.com/dp/1976762545/)
 
-#### The Pink Glasses: Haskell’s Optics For Working With Data
+##### The Pink Glasses: Haskell’s Optics For Working With Data
 
 Lenses have got a good share in the Haskell world. It all started from overcoming the flaws of the language and ended up with a whole new universe of precise, math-based abstractions for manipulating data structures. Although lenses are useful, they form a separate language that isn’t easy to learn. Unless you read this excellent book.
 
@@ -157,17 +157,17 @@ And by the way, it’s already written!
 
 * [Optics By Example](https://leanpub.com/optics-by-example)
 
-#### The Happy Marriage Of Haskell And Category Theory
+##### The Happy Marriage Of Haskell And Category Theory
 
 It’s not a secret that Category Theory has rooted in the Haskell world quite reliably. This 500 pages book tries to step back from the path traveled and take a fresh look at it. It turns out that the history of inventing Category Theory in Haskell is entertaining on its own. Nice findings, sudden discoveries, cool math hints, unexpected obstacles on what was seemed simple initially, - the book presents all this in a popular science narration approachable to every curious person. By reading the book, you’ll know what was hidden behind the scenes of introducing Category Theory concepts in Haskell, and you’ll see how much love the researchers have put into it.
 
-#### Domain-Driven Design With Category Theory
+##### Domain-Driven Design With Category Theory
 
 This is definitely not a simple book. Category Theory as a Math theory has a known difficulty, and its Haskell branch isn’t simple either. The book does its best to build an approachable, concise methodology on how to apply Category Theory to real tasks and shows how to use it for Domain-Driven Design. The reader will learn a number of tools useful in day-to-day practice and will be able to see the real, math nature of different data structures. The book is very detailed, it makes excursus into Math when needed but does it graciously. This unique 600 pages book presents a new view on Software Design and will be useful to all software engineers.
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
-#### Mastering Functional Streams With Haskell
+##### Mastering Functional Streams With Haskell
 
 Functional stream programming wasn’t a new idea. Like many other ideas from Functional Programming, it was there for a couple of decades until it finally reached some adoption in the industry. Scala has Akka-streams, Java has Streams API, C# with its LINQ can provide a base for streaming, C++20 is now packed with ranges, and even web languages such as JavaScript and Python have some features for stream programming. Despite that, we didn’t have an understanding of how to organize our code for the best utilization of the streaming style. But this 500-page book changed everything. Now, it’s clear that streams are an architectural pattern, and should be used with care. It’s not only about performance, but also about complexity, concurrency and testability, - and all of this in the light of different streaming libraries. Before this book, it was very difficult to decide on what library to use: conduits, machines, streamly, streaming, - but now we know the strengths and weaknesses of each.
 
@@ -175,7 +175,7 @@ Functional stream programming wasn’t a new idea. Like many other ideas from Fu
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 * [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
 
-#### Data Science In Haskell
+##### Data Science In Haskell
 
 Functional Programming is slow! Haskell is slow, too! Use Python, it’s good for everything!
 
@@ -186,32 +186,32 @@ https://www.oreilly.com/library/view/scala-for-data/9781785281372/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?dchild=1&keywords=Python+Data+Science&qid=1622276271&sr=8-2](Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition)
 
-#### Never Be Back: Domain-Specific Languages In Haskell
+##### Never Be Back: Domain-Specific Languages In Haskell
 
 It was stated that Haskell is superior for building domain-specific languages, both embedded and external. If so, why not have this theme covered by a neat book? What would you expect to read in such a book? If it’s about an external domain-specific language, then the topics of parsing, grammar description, translation, testing, syntax design, and semantics design should be covered. If it’s about embedded languages, - well, Haskell has a lot to offer here! Starting from the usual functional declarative languages, going through functors, applicatives, monads, arrows, comonads, zippers, and ending up with type-level domain-specific languages. This 600 pages book has everything you need, and even more than that. It shows why DSLs are a great idea, and how to be more conscious when designing your own.
 
 * [Domain-Specific Languages](https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler/dp/0321712943)
 * [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 
-#### Mine it! Blockchains In Haskell
+##### Mine it! Blockchains In Haskell
 
 This book represents an honest discussion on the very controversial field. It happened so that Haskell has recommended itself in the blockchain field, and it’s already a notable player there, so at least this should be investigated and reflected somehow. The authors show how different concepts of Haskell make it very suitable for building highly concurrent, massively distributed and extremely complex applications. Besides the fact that it teaches how to build your own blockchain, the book also introduces a couple of new ideas on how to approach the correctness in such systems. The book also touches on the currently existing Haskell blockchain technologies and provides a good picture of how they are built from the engineering point of view.
 
 * [Blockchain For Rust Developers: The Ultimate Beginner’s Guide to build your own Blockchain application with Rust](https://www.amazon.com/Blockchain-Rust-Developers-application-Hands/dp/B0874JFXSD)
 
-#### Testing Practices With Haskell
+##### Testing Practices With Haskell
 
 This might first seem that the only viable testing technique in Haskell is property-based testing, but a closer look proves that big projects need other approaches as well. Integration testing, white-box unit testing, end-to-end testing, property-based testing, manual testing, smoke testing, fuzzy testing - these are only a part of the story. It’s all about testing functional requirements. And what about testing non-functional requirements? How to test the Haskell code on performance, load, memory, and space leaks? What are the best practices? What tools to use? This book is definitely the best source of knowledge on that.
 
 * [Testing in Scala](https://www.oreilly.com/library/view/testing-in-scala/9781449360313/)
 
-#### Test-Driven Development In Haskell
+##### Test-Driven Development In Haskell
 
 Writing software is hard. It’s difficult not only because we choose difficult tools, but also because we choose to not follow methodologies and turn our projects into a mess. The mainstream world has noticed that there are methodologies that reduce the risks. Test-Driven Development, while being criticized a lot, could be very helpful if taken wisely. The book introduces TDD in Haskell and shows why it makes perfect sense to follow it, and what kind of code quality can be achieved.
 
 * [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
-#### Type-Driven Development With Haskell
+##### Type-Driven Development With Haskell
 
 The world of types is vast. It’s even bigger than we initially thought. It won’t be an exaggeration to say that type-level programming is on the cutting edge of Software Engineering today. This book shows why Haskell is a grey Cardinal in this movement. This is an advanced language with hundreds of type-level features, and it influences other languages a lot. Rust, Scala, C++, TypeScript are the languages that look at Haskell and borrow its ideas secretly. They are aimed to make the life of a developer simpler by leveraging good practices and approaches to structure applications. This book uses Haskell to describe those approaches, and developers in other languages can also benefit from it very much.
 
