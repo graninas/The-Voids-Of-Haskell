@@ -141,7 +141,7 @@ What differentiates this 600 pages book from its predecessors is the approach th
 
 ##### Mimic The Enemy: Object-Oriented Programming In Haskell
 
-"Know thy enemy and know yourself; in a hundred battles, you will never be defeated”, - Sun Tzu once said. For Haskell, implementing an OOP-like programming environment means not only broadening the horizons by learning OOP itself, but also revealing deep insights about Haskell itself. The book is a thorough investigation on how to implement object systems, dynamic dispatch, inheritance, and encapsulation in a strange, unnatural yet useful way. Starting from a general understanding of OOP, the authors of this 600 pages book came to the conclusion that being a mindful Haskell developer also means knowing what other techniques exist.
+"Know thy enemy and know yourself; in a hundred battles, you will never be defeated”, - Sun Tzu once said. For Haskell, implementing an OOP-like programming environment means not only broadening the horizons by learning OOP itself, but also revealing deep insights about Haskell. The book is a thorough investigation on how to implement object systems, dynamic dispatch, inheritance, and encapsulation in a strange, unnatural yet useful way. Starting from a general understanding of OOP, the authors of this 600 pages book came to the conclusion that being a mindful Haskell developer also means knowing what other techniques exist.
 
 ##### A Rest-Full Guide On Web Development In Haskell
 
