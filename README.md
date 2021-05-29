@@ -43,7 +43,7 @@ How do I know? You’re in your right not taking my words for it. But I’m not 
 * [Event Sourcing, CQRS, And Reliable Systems In Haskell](#Event-Sourcing-CQRS-And-Reliable-Systems-In-Haskell)
 * [The Actors Of FRP](#The-Actors-Of-FRP)
 * [Game Development In Haskell](#Game-Development-In-Haskell)
-* [The Correct Software. A Haskeller’s Perspective](#The-Correct-Software-A-Haskeller-s-Perspective)
+* [The Correct Software. A Haskeller’s Perspective](#The-Correct-Software-A-Haskellers-Perspective)
 * [Conquering The Concurrency: The Engineering Approach](#Conquering-The-Concurrency--The-Engineering-Approach)
 * [Mimic The Enemy: Object-Oriented Programming In Haskell](#Mimic-The-Enemy-Object-Oriented-Programming-In-Haskell)
 * [A Rest-Full Guide On Web Development In Haskell](#A-Rest-Full-Guide-On-Web-Development-In-Haskell)
