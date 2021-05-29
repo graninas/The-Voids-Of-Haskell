@@ -28,7 +28,7 @@ I strongly disagree. The value of a book in its systematic, comprehensive exposi
 
 I’m very scared by the number of gaps we have in the Haskell world. In addition to ~30 existing books, there are 30+ big themes to cover. If we consider that every author has their own style of writing, we’d better have multiple books on every theme. This means we lack hundreds of books, and this number will only increase with time. Hundreds of books are a lot. And covering this gap isn’t an easy deal. This can’t be fixed without support from the community, but to make this happen, the community should realize the problem. It should finally see that we have big voids in the ecosystem. The Voids Of Haskell.
 
-How do I know? You’re in your right not taking my words for it. But I’m not a theorist, I’m a practitioner, and I have evidence for you. I prepared a list of books we could have. Imaginary books with their concepts and ideas, - those books I’d love reading personally. The books that could teach me everything we have in other popular languages but for some reason are unable to reproduce in Haskell. Check out my list of books we’re missing - I’m sure you’ll find it entertaining.
+How do I know? You’re in your right not taking my words for it. But I’m not a theorist, I’m a practitioner, and I have evidence for you. I prepared a list of books we could have. Imaginary books with their concepts and ideas, - those books I’d love reading personally. The books that could teach me everything we have in other popular languages but for some reason we are unable to reproduce this in Haskell. Check out my list of books we’re missing - I’m sure you’ll find it entertaining.
 
 ---
 
