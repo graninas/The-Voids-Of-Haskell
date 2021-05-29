@@ -182,8 +182,7 @@ Functional Programming is slow! Haskell is slow, too! Use Python, it’s good fo
 
 Do you see a contradiction here? Python is one of the slowest languages, it’s 20 times less performant than Haskell. And still, it rules the world today. What can Haskell offer to overcome this strange situation? If Haskell is so great at data manipulation, can it replace Python in Data Science? This book provides the answer: Haskell has everything for that. The authors make a great effort to show how it’s easy to do machine learning with Haskell, and how reliable the code becomes. The expressiveness of the language allows us to use different styles when working with neural network and classification algorithms, and it makes even more sense to utilize the full power of applicatives, monads, and arrows for that. A very insightful and practical 600 pages book, that is also backed by application templates. A must-have book even if you don’t do machine learning!
 
-* [Scala for Data Science](
-https://www.oreilly.com/library/view/scala-for-data/9781785281372/)
+* [Scala for Data Science](https://www.oreilly.com/library/view/scala-for-data/9781785281372/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?dchild=1&keywords=Python+Data+Science&qid=1622276271&sr=8-2](Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition)
 
