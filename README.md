@@ -56,6 +56,7 @@ How do I know? You’re in your right not taking my words for it. But I’m not 
 * [Mine it! Blockchains In Haskell](#Mine-it--Blockchains-In-Haskell)
 * [Testing Practices With Haskell](#Testing-Practices-With-Haskell)
 * [Test-Driven Development In Haskell](#Test-Driven-Development-In-Haskell)
+* [Type-Driven Development With Haskell](#Type-Driven-Development-With-Haskell)
 
 ##### Clean Functional Code
 
