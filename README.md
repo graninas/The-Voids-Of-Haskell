@@ -40,7 +40,7 @@ How do I know? You’re in your right not taking my words for it. But I’m not 
 * [Going Fancy: Type-Safe Relational Mapping With Haskell](#Going-Fancy-Type-Safe-Relational-Mapping-With-Haskell)
 * [Domain-Driven Design In Haskell](#Domain-Driven-Design-In-Haskell)
 * [Boringly Simple Haskell: The Path Of A Rebellion](#Boringly-Simple-Haskell-The-Path-Of-A-Rebellion)
-* [Event Sourcing, CQRS, And Reliable Systems In Haskell](#Event-Sourcing--CQRS--And-Reliable-Systems-In-Haskell)
+* [Event Sourcing, CQRS, And Reliable Systems In Haskell](#Event-Sourcing-CQRS-And-Reliable-Systems-In-Haskell)
 * [The Actors Of FRP](#The-Actors-Of-FRP)
 * [Game Development In Haskell](#Game-Development-In-Haskell)
 * [The Correct Software. A Haskeller’s Perspective](#The-Correct-Software--A-Haskeller-s-Perspective)
@@ -169,10 +169,9 @@ This is definitely not a simple book. Category Theory as a Math theory has a kno
 
 #### Mastering Functional Streams With Haskell
 
-* [Mastering Akka](https://www.oreilly.com/library/view/mastering-akka/9781786465023/)
-
 Functional stream programming wasn’t a new idea. Like many other ideas from Functional Programming, it was there for a couple of decades until it finally reached some adoption in the industry. Scala has Akka-streams, Java has Streams API, C# with its LINQ can provide a base for streaming, C++20 is now packed with ranges, and even web languages such as JavaScript and Python have some features for stream programming. Despite that, we didn’t have an understanding of how to organize our code for the best utilization of the streaming style. But this 500-page book changed everything. Now, it’s clear that streams are an architectural pattern, and should be used with care. It’s not only about performance, but also about complexity, concurrency and testability, - and all of this in the light of different streaming libraries. Before this book, it was very difficult to decide on what library to use: conduits, machines, streamly, streaming, - but now we know the strengths and weaknesses of each.
 
+* [Mastering Akka](https://www.oreilly.com/library/view/mastering-akka/9781786465023/)
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 * [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
 
