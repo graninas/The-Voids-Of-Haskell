@@ -185,6 +185,7 @@ Do you see a contradiction here? Python is one of the slowest languages, it’s 
 * [Scala for Data Science](https://www.oreilly.com/library/view/scala-for-data/9781785281372/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
+* [Haskell Data Analysis Cookbook](https://www.packtpub.com/product/haskell-data-analysis-cookbook/9781783286331)
 
 ##### Never Be Back: Domain-Specific Languages In Haskell
 
