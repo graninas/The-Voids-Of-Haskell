@@ -218,6 +218,7 @@ The world of types is vast. It’s even bigger than we initially thought. It won
 
 * [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 * [Programming with Types](https://www.manning.com/books/programming-with-types)
+* [Algebra-Driven Design](https://leanpub.com/algebra-driven-design)
 
 ### Conclusion
 
