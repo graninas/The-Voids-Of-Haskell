@@ -217,9 +217,10 @@ Writing software is hard. It’s difficult not only because we choose difficult 
 
 The world of types is vast. It’s even bigger than we initially thought. It won’t be an exaggeration to say that type-level programming is on the cutting edge of Software Engineering today. This book shows why Haskell is a grey Cardinal in this movement. This is an advanced language with hundreds of type-level features, and it influences other languages a lot. Rust, Scala, C++, TypeScript are the languages that look at Haskell and borrow its ideas secretly. They are aimed to make the life of a developer simpler by leveraging good practices and approaches to structure applications. This book uses Haskell to describe those approaches, and developers in other languages can also benefit from it very much.
 
-* [Thinking with Types](https://leanpub.com/thinking-with-types)
+* [Pragmatic Type-Level Design (WIP)](https://graninas.com/pragmatic-type-level-design-book/)
 * [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 * [Programming with Types](https://www.manning.com/books/programming-with-types)
+* [Thinking with Types](https://leanpub.com/thinking-with-types)
 * [Algebra-Driven Design](https://leanpub.com/algebra-driven-design)
 
 ### Conclusion
