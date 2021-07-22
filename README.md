@@ -71,7 +71,7 @@ This promises to be a great 400 pages book that will teach hundreds of thousands
 Surely, we have some Haskell books about Functor-Applicative-Monad, but they don’t cover the recent discoveries. Just talking about “functors” is not enough. You can discuss interesting properties of data structures, but you won’t get a full picture of how to design the code, only small parts of it. What is missing here is the understanding of the difference between functional idioms and design patterns. Functors, applicatives, monads are more internal, inherent functional idioms rather than external, compound design patterns. Functional idioms reveal the math nature of a data structure whereas design patterns allow constructing solutions to common programming problems. The new 500 pages book on design patterns in Haskell should demonstrate this distinction and provide a comprehensive GoF-like reference on all the design patterns recently discovered in functional languages.
 
 * [(GoF Book) Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
-* [Functional Design And Architecture](https://leanpub.com/functional-design-and-architecture)
+* [Functional Design and Architecture (Second Edition)](https://www.manning.com/books/functional-design-and-architecture)
 * [Haskell Design Patterns](https://www.google.ru/books/edition/Haskell_Design_Patterns/Q_KoCwAAQBAJ?hl=en&gbpv=0)
 * [Functional Programming Patterns in Scala and Clojure](https://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure/dp/1937785475)
 * [Scala Design Patterns](https://www.amazon.com/Scala-Design-Patterns-Practical-Reuse/dp/3319021915)
@@ -231,7 +231,7 @@ This is my take: if we want Haskell to be more popular (and I do want this with 
  
 ### About me
 
-- Author of the fundamental book [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture) about Software Engineering in Haskell. Currently working on the second edition with Manning Publications.
+- Author of the fundamental book [Functional Design and Architecture (Second Edition)](https://www.manning.com/books/functional-design-and-architecture) about Software Engineering in Haskell. Currently working on the second edition with Manning Publications.
 - Also, writing my second book [Pragmatic Type-Level Design](https://www.patreon.com/pragmatic_type_level_design).
 - Author of many Haskell and PureScript frameworks: [Hydra](https://github.com/graninas/Hydra), Juspay’s [Presto.Core](https://github.com/juspay/purescript-presto), Juspay’s [EulerHS](https://github.com/juspay/euler-hs), Enecuum’s [Node](https://github.com/graninas/Node), and some others.
 - [An international speaker](https://graninas.com/talks-eng/) with more than 20 talks on Functional Design in Haskell and C++.
