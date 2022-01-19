@@ -225,7 +225,7 @@ The world of types is vast. It’s even bigger than we initially thought. It won
 
 ### Conclusion
 
-Now you must be understanding why I say that Haskell struggles behind the world. There are so many themes that the community is just avoids for some reason, there are so many voids in the understanding of how to use the language for building software. This is the Haskell Superiority Paradox: while being an extremely advanced language, it fails to prove this superiority by demonstrating sensible results. A language can’t be considered alive if the outer world sees it as impractical. This, in turn, represents a huge obstacle for its expansion.
+Now you must be understanding why I say that Haskell struggles behind the world. There are so many themes which the community just avoids for some reason, there are so many voids in the understanding of how to use the language for building software. This is the Haskell Superiority Paradox: while being an extremely advanced language, it fails to prove this superiority by demonstrating sensible results. A language can’t be considered alive if the outer world sees it as impractical. This, in turn, represents a huge obstacle for its expansion.
 
 This is my take: if we want Haskell to be more popular (and I do want this with all my heart), we have to fill these gaps somehow. Writing more practical books is a very difficult, time-consuming, life-draining, money-expensive activity. And because of that, supporting authors should be a community-wide value.
  
