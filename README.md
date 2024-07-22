@@ -231,7 +231,7 @@ This is my take: if we want Haskell to be more popular (and I do want this with 
  
 ### About me
 
-- Author of the fundamental book [Functional Design and Architecture (Manning Publications)]([https://graninas.com/functional-design-and-architecture-book/](https://www.manning.com/books/functional-design-and-architecture)) about Software Engineering in Haskell. Currently working on the [Second Edition with Manning Publications]().
+- Author of the fundamental book [Functional Design and Architecture (Manning Publications)]([https://graninas.com/functional-design-and-architecture-book/](https://www.manning.com/books/functional-design-and-architecture)) about Software Engineering in Haskell.
 - Also, writing my third book [Pragmatic Type-Level Design](https://graninas.com/pragmatic-type-level-design-book/).
 - Author of many Haskell and PureScript frameworks: [Hydra](https://github.com/graninas/Hydra), Juspay’s [Presto.Core](https://github.com/juspay/purescript-presto), Juspay’s [EulerHS](https://github.com/juspay/euler-hs), Enecuum’s [Node](https://github.com/graninas/Node), and some others.
 - [An international speaker](https://graninas.com/talks-eng/) with more than 20 talks on Functional Design in Haskell and C++.
