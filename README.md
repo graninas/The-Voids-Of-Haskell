@@ -203,19 +203,19 @@ This book represents an honest discussion on a very controversial field. It happ
 
 ##### Testing Practices With Haskell
 
-This might first seem that the only viable testing technique in Haskell is property-based testing, but a closer look proves that big projects need other approaches as well. Integration testing, white-box unit testing, end-to-end testing, property-based testing, manual testing, smoke testing, fuzzy testing - these are only a part of the story. It’s all about testing functional requirements. And what about testing non-functional requirements? How to test the Haskell code on performance, load, memory, and space leaks? What are the best practices? What tools to use? This book is definitely the best source of knowledge on that.
+This might first seem that the only viable testing technique in Haskell is property-based testing, but a closer look proves that big projects also need other approaches. Integration testing, white-box unit testing, end-to-end testing, property-based testing, manual testing, smoke testing, fuzzy testing - these are only a part of the story. It’s all about testing functional requirements. And what about testing non-functional requirements? How do you test the Haskell code on performance, load, memory, and space leaks? What are the best practices? What tools to use? This book is definitely the best source of knowledge on that.
 
 * [Testing in Scala](https://www.oreilly.com/library/view/testing-in-scala/9781449360313/)
 
 ##### Test-Driven Development In Haskell
 
-Writing software is hard. It’s difficult not only because we choose difficult tools but also because we choose not to follow methodologies and turn our projects into a mess. The mainstream world has noticed that there are methodologies that reduce the risks. Test-Driven Development, while being criticized a lot, could be very helpful if taken wisely. The book introduces TDD in Haskell and shows why it makes perfect sense to follow it, as well as what kind of code quality can be achieved.
+Writing software is hard. It’s difficult not only because we choose difficult tools but also because we choose not to follow methodologies and turn our projects into a mess. The mainstream world has noticed that there are methodologies that reduce risks. Test-driven development, while being criticized a lot, could be very helpful if taken wisely. The book introduces TDD in Haskell and shows why it makes perfect sense to follow it and what kind of code quality can be achieved.
 
 * [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
 ##### Type-Driven Development With Haskell
 
-The world of types is vast. It’s even bigger than we initially thought. It won’t be an exaggeration to say that type-level programming is on the cutting edge of Software Engineering today. This book shows why Haskell is a grey Cardinal in this movement. This is an advanced language with hundreds of type-level features, and it influences other languages a lot. Rust, Scala, C++, TypeScript are the languages that look at Haskell and borrow its ideas secretly. They are aimed to make the life of a developer simpler by leveraging good practices and approaches to structure applications. This book uses Haskell to describe those approaches, and developers in other languages can also benefit from it very much.
+The world of types is vast. It’s even bigger than we initially thought. It won’t be an exaggeration to say that type-level programming is on the cutting edge of Software Engineering today. This book shows why Haskell is a grey Cardinal in this movement. This is an advanced language with hundreds of type-level features, and it greatly influences other languages. Rust, Scala, C++, TypeScript are the languages that look at Haskell and borrow its ideas secretly. They aim to simplify a developer's life by leveraging good practices and approaches to structure applications. This book uses Haskell to describe those approaches, and developers in other languages can greatly benefit from it.
 
 * [Pragmatic Type-Level Design (WIP)](https://graninas.com/pragmatic-type-level-design-book/)
 * [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
@@ -225,13 +225,13 @@ The world of types is vast. It’s even bigger than we initially thought. It won
 
 ### Conclusion
 
-Now, you must understand why I say that Haskell struggles in the world. There are so many themes that the community just avoids for some reason; there are so many voids in the understanding of how to use the language for building software. This is the Haskell Superiority Paradox: while being an extremely advanced language, it fails to prove this superiority by demonstrating sensible results. A language can’t be considered alive if the outer world sees it as impractical. This, in turn, represents a huge obstacle to its expansion.
+Now, you must understand why I say that Haskell struggles in the world. There are so many themes that the community just avoids for some reason; there are so many voids in understanding how to use the language for building software. This is the Haskell Superiority Paradox: while an extremely advanced language, it fails to prove this superiority by demonstrating sensible results. A language can’t be considered alive if the outer world sees it as impractical. This, in turn, represents a huge obstacle to its expansion.
 
-This is my take: if we want Haskell to be more popular (and I do want this with all my heart), we have to fill these gaps somehow. Writing more practical books is a very difficult, time-consuming, life-draining, money-expensive activity. And because of that, supporting authors should be a community-wide value.
+This is my take: if we want Haskell to be more popular (and I do want this with all my heart), we must somehow fill these gaps. Writing more practical books is a very difficult, time-consuming, life-draining, money-expensive activity. Because of that, supporting authors should be of community-wide value.
  
 ### About me
 
-- Author of the fundamental book [Functional Design and Architecture (Manning Publications)]([https://graninas.com/functional-design-and-architecture-book/](https://www.manning.com/books/functional-design-and-architecture)) about Software Engineering in Haskell.
+- Author of the fundamental book [Functional Design and Architecture (Manning Publications)](https://www.manning.com/books/functional-design-and-architecture) about Software Engineering in Haskell.
 - Also, writing my third book [Pragmatic Type-Level Design](https://graninas.com/pragmatic-type-level-design-book/).
 - Author of many Haskell and PureScript frameworks: [Hydra](https://github.com/graninas/Hydra), Juspay’s [Presto.Core](https://github.com/juspay/purescript-presto), Juspay’s [EulerHS](https://github.com/juspay/euler-hs), Enecuum’s [Node](https://github.com/graninas/Node), and some others.
 - [An international speaker](https://graninas.com/talks-eng/) with more than 20 talks on Functional Design in Haskell and C++.
