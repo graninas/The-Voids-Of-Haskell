@@ -217,7 +217,7 @@ Writing software is hard. It’s difficult not only because we choose difficult 
 
 The world of types is vast. It’s even bigger than we initially thought. It won’t be an exaggeration to say that type-level programming is on the cutting edge of Software Engineering today. This book shows why Haskell is a grey Cardinal in this movement. This is an advanced language with hundreds of type-level features, and it greatly influences other languages. Rust, Scala, C++, TypeScript are the languages that look at Haskell and borrow its ideas secretly. They aim to simplify a developer's life by leveraging good practices and approaches to structure applications. This book uses Haskell to describe those approaches, and developers in other languages can greatly benefit from it.
 
-* [Pragmatic Type-Level Design (WIP)](https://graninas.com/pragmatic-type-level-design-book/)
+* [Pragmatic Type-Level Design](https://graninas.com/pragmatic-type-level-design-book/)
 * [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 * [Programming with Types](https://www.manning.com/books/programming-with-types)
 * [Thinking with Types](https://leanpub.com/thinking-with-types)
@@ -231,7 +231,7 @@ This is my take: if we want Haskell to be more popular (and I do want this with 
  
 ### About me
 
-- Author of the fundamental book [Functional Design and Architecture (Manning Publications)](https://www.manning.com/books/functional-design-and-architecture) about Software Engineering in Haskell.
+- Author of the fundamental book [Functional Design and Architecture: Examples in Haskell (Manning Publications)](https://www.manning.com/books/functional-design-and-architecture) about Software Engineering in Haskell.
 - Author of another deep book [Pragmatic Type-Level Design](https://graninas.com/pragmatic-type-level-design-book/).
 - Author of many Haskell and PureScript frameworks: [Hydra](https://github.com/graninas/Hydra), Juspay’s [Presto.Core](https://github.com/juspay/purescript-presto), Juspay’s [EulerHS](https://github.com/juspay/euler-hs), Enecuum’s [Node](https://github.com/graninas/Node), and some others.
 - [An international speaker](https://graninas.com/talks-eng/) with more than 20 talks on Functional Design in Haskell and C++.
